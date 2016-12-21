@@ -17,8 +17,6 @@ Pod::Spec.new do |s|
 
   s.ios.minimum_deployment_target = '7.0'
 
-s.tvos.minimum_deployment_target = '10.0’
-
   s.requires_arc = true
 
   s.source_files = "Code/Production/**/*.{h,m}"
