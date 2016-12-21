@@ -255,6 +255,7 @@
 		C31E1A171E0A892100039EAF /* AssemblyCollector.h in Headers */ = {isa = PBXBuildFile; fileRef = DCDD19A3CC41B0FA11E261336BEFF4FD /* AssemblyCollector.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C31E1A181E0A892100039EAF /* RamblerInitialAssembly.h in Headers */ = {isa = PBXBuildFile; fileRef = 75EA7A4245F7CF882E0235CDC5012892 /* RamblerInitialAssembly.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C31E1A191E0A892100039EAF /* RamblerInitialAssemblyCollector.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BD30E1B9EDAD47606608039EE1ACE98 /* RamblerInitialAssemblyCollector.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C31E1A1A1E0A89A500039EAF /* Pods-RamblerTyphoonUtils_Example-RamblerTyphoonUtils-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 17B5CCA983461F5B314092D0D5AC74A0 /* Pods-RamblerTyphoonUtils_Example-RamblerTyphoonUtils-dummy.m */; };
 		C4235F3704F471BAF74CB4482A99D340 /* OCMReturnValueProvider.h in Headers */ = {isa = PBXBuildFile; fileRef = 0670DBC725FEEFAFE0CA0688F854C341 /* OCMReturnValueProvider.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		C508640C7607A5BE183916AC4202A026 /* OCMInvocationMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 03687611E73A773E038ADB949751BAE9 /* OCMInvocationMatcher.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		C55C0B0594D26DE09DEC7F161910A211 /* OCObserverMockObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 51C5A41C0970256582FF9A29B659EF98 /* OCObserverMockObject.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
@@ -1941,6 +1942,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C31E1A1A1E0A89A500039EAF /* Pods-RamblerTyphoonUtils_Example-RamblerTyphoonUtils-dummy.m in Sources */,
 				C31E1A151E0A88BA00039EAF /* RamblerInitialAssemblyCollector.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
