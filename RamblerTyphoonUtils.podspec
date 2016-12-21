@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => "https://github.com/rambler-digital-solutions/RamblerTyphoonUtils.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/rambler_ios'
 
-  s.platform     = :ios, '7.0'
+  s.ios.platform     = :ios, ‘7.0’
   s.requires_arc = true
 
   s.source_files = "Code/Production/**/*.{h,m}"
